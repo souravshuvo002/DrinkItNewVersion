@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DrinkItNewVersion</string>
+
+
+    <string name="lbl_create_account">Don\'t have an account? Sign Up here.</string>
+    <string name="long_desc">Sobjiwala is the leading Online Grocery store in Bangladesh, Primarily operating in Sylhet.\nOur wide range of products include all the grocery and supermarket items a typical family would need on a daily basis including fruits and vegetables.\nWe are a people oriented company and we believe that even in this automated world we can still talk to our customers every time they place an order. We would give a call to each and every customer to ensure that they are thoroughly satisfied with our supply</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="login_now">Login Now</string>
+    <string name="don_t_remember_password">Don\'t Remember password?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+
+</resources>

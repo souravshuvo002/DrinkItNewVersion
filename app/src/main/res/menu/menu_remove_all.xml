@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/id_removeAll"
+        android:title="Remove All"
+        app:actionLayout="@layout/delete_with_padding"
+        app:showAsAction="ifRoom" />
+
+</menu>
